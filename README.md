@@ -7,3 +7,8 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 ## PUSH EXISTING REPO TO GITHUB
 - 
+
+## USE THE BROWSER ON VSCODE
+- use the shift+cmd+p
+- simple browser
+- input: http://localhost:3000
